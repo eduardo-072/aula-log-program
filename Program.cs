@@ -1,37 +1,4 @@
-﻿// Console.WriteLine("Digite um numero: ");
-// double num = Convert.ToDouble(Console.ReadLine());
-
-// double quadrado = Math.Pow(num, 2);
-
-// Console.Write("Quadrado de " + num + " é " + quadrado);
-// Console.ReadKey();
-
-// Console.WriteLine("Digite um numero: ");
-// double num1 = Convert.ToDouble(Console.ReadLine());
-// double raiz =  Math.Sqrt(num1);
-
-// Console.Write("Raiz de " + num1 + " é " + raiz);
-// Console.ReadKey();
-
-// Console.Write("Digite seu nome: ");
-// string nome = Console.ReadLine();
-// string nome_Ma = nome.ToUpper();
-// Console.WriteLine("Nome maiusculo: " + nome_Ma);
-
-// string nome_mi = nome.ToLower();
-// Console.WriteLine("Nome minusculo: " + nome_mi);
-
-// int pos = nome.IndexOf("A");
-// Console.WriteLine("Posicao do 'A': " + pos);
-
-// string nome_cort = nome.Substring(5, 5);
-// Console.WriteLine("Nome com corte: " + nome_cort);
-// string nome_troca = nome.Replace("a", "e");
-// Console.WriteLine("Nome trocado: ");
-
-// Console.ReadKey();
-
-// 1-
+﻿// 1-
 // Console.WriteLine("---------Calcule a área do circulo---------");
 
 // Console.Write("Digite um número: ");
@@ -163,6 +130,7 @@
 // Console.WriteLine($"Seu email é: " + partes[0] + "." + partes[4] + result + "@fatec.sp.gov.br");
 // Console.ReadKey();
 
+// geradorde senha automatico
 // Random senha = new Random();
 
 // int n1 = random.Next(1,20); 
